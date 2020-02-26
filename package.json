@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
+    "glob": "^7.1.6",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-convert": "^1.2.0",
@@ -22,6 +23,6 @@
     "pug": "^2.0.3"
   },
   "devDependencies": {
-    "nodemon": "^1.19.1"
+    "nodemon": "^2.0.2"
   }
 }
